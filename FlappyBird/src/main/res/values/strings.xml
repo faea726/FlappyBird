@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flappy Bird</string>
+    <string name="play_button">Play button</string>
+</resources>
